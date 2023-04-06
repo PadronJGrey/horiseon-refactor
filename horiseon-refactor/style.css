@@ -23,8 +23,8 @@ body {
 .header h1 .seo {
     color: #d9dcd6;
 }
-
-.header div {
+/* chnaged div to nav */
+.header nav {
     padding-top: 15px;
     margin-right: 20px;
     float: right;
@@ -134,7 +134,8 @@ p {
     max-width: 150px;
 }
 
-.search-engine-optimization {
+/* changed class in html to main content to consolidate css */
+.maincontent {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
