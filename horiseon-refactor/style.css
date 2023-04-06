@@ -98,25 +98,13 @@ p {
 }
 /* in html changed classes to benefit and consolidated css */
 
-.benefit-lead img {
+.benefit img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
-
-.benefit-brand img {
-    display: block;
-    margin: 10px auto;
-    max-width: 150px;
-}
-
-.benefit-cost img {
-    display: block;
-    margin: 10px auto;
-    max-width: 150px;
-}
-
 /* changed class in html to main content to consolidate css */
+
 .maincontent {
     margin-bottom: 20px;
     padding: 50px;
@@ -125,29 +113,12 @@ p {
     background-color: #0072bb;
     color: #ffffff;
 }
+/* in html changed classes to maincontent and consolidated css */
 
-.online-reputation-management {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
-}
-
-.social-media-marketing {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
-}
-
-.search-engine-optimization img {
+.maincontent img {
     max-height: 200px;
 }
-
+/* in html changed classes to maincontent and consolidated css */
 .online-reputation-management img {
     max-height: 200px;
 }
